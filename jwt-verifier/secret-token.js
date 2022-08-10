@@ -1,0 +1,3 @@
+const SECRET_TOKEN = 'FGH3ILWRBGAEILUFBHGVAILFHGUhdfgiouwhiodefh';
+
+export default SECRET_TOKEN;
